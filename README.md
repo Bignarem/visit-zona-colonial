@@ -1,13 +1,3 @@
-# cMLr3asK
-
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
 ## creacionNES
 
 Agencia Digital enfocada en Crear y manejar Paginas Web, Puntos de Ventas (POS), SEO/SEM, Contenido Digital, Redes Sociales, Emergencias WordPress.
